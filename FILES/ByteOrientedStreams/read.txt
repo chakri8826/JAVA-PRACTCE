@@ -1,0 +1,1 @@
+Hello chakri this is the text file to read the data from the file.

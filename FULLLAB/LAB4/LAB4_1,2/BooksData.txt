@@ -1,0 +1,10 @@
+BestFriends Revanth 18 jrevanth101@gmail.com Male 100.0 500 250
+CompleteRef JamesGosling 58 james@java Male 500 200 1300
+WingsOfFire APJ 60 kalam@India Male 100 1000 200
+YouCanWin ShivKher 72 shiv@India Male 200 600 300
+IgnitedMinds APJ 76 kalam@India Male 200 500 200
+DiscoveryOfIndia JNehru 98 Nehru@India Male 700 500 300
+CLang Dennis 78 ritche@clang Male 1000 700 500
+HarryPoter Rowling 98 jk@fiction Female 100 500 800
+MalgudiDays Narayanan 66 rk@India Male 500 200 400
+WhatisMyName Satyavathi 80 satyavathi@India Female 300 400 500

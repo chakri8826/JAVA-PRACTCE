@@ -1,0 +1,6 @@
+ASIA101 Kadapa Vizag 4000 300
+ASIA102 Kadapa Chennai 3000 200
+ASIA103 Kadapa Hyderabad 2000 300
+ASIA104 Kadapa Bengaluru 3000 300
+ASIA105 Kadapa Goa 5000 300
+ASIA106 Kadapa Delhi 10000 400

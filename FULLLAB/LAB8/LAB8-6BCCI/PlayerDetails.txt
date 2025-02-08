@@ -1,0 +1,3 @@
+Dhoni 9000 100
+Kohli 10000 80
+Sachin 12000 90

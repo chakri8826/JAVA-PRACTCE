@@ -1,0 +1,7 @@
+S101 pen 10 10
+S102 notebook 40 6
+E103 Laptop 40000 1
+E104 Phone 10000 1
+E105 Tv 25000 1
+S106 shampoo 10 20
+S107 soaps 30 8

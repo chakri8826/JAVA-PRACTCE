@@ -1,0 +1,7 @@
+S101 pen 10.0 10
+S102 notebook 40.0 6
+E103 Laptop 40000.0 1
+E104 Phone 10000.0 1
+E105 Tv 25000.0 1
+S107 soaps 30.0 8
+S103 RecordBook 100.0 2
